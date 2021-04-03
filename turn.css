@@ -1,0 +1,58 @@
+body
+{
+    background-color: rgb(80, 55, 0);
+    color: rgb(0, 0, 0);
+    border-style: none;
+    font-size: 1.2rem;
+    margin: 0px;
+    padding: 0px;
+}
+ul,li
+{
+    list-style: none;
+    font-style: none;
+    font-size: 1.2rem;
+    margin: 0px;
+    padding: 0px;
+}
+a
+{
+    text-decoration: none;
+}
+.header
+{
+    background-color: rgb(209, 206, 206);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    height: 170px;
+}
+
+.menu
+{
+    display: flex;
+}
+.menu li
+{
+    margin-left: 10px;
+}
+.menu li a
+{
+    color: rgb(0, 0, 0);
+    display: block;
+    padding: 10px;
+}
+section,h1,p#secaoContato
+{
+    text-align: center;
+    font-size: large;
+    color: rgb(182, 182, 182);
+}
+section,h1,p#sec02
+{
+    text-align: center;
+    font-size: large;
+    color: rgb(182, 182, 182);
+}
